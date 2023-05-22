@@ -1,4 +1,4 @@
-Hello!
+Hello,
 This is my resume/portfolio/blog to showcase my work.
 - Marie 
 
