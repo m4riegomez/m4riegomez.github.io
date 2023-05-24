@@ -2323,6 +2323,19 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.artfeatured {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 0px;
+				margin-top: 30px;
+				width: 50%;
+		}
+	
+			.image.artfeatured img {
+					width: 100%;
+			}	
+
 		.image.featured {
 			display: block;
 			margin-left: auto;
